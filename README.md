@@ -5,7 +5,7 @@ The source code for this project is at the moment private. Let me know if you ne
 
 You can use the underlying credentials to log in the application:
 # Deployed application url: http://www.snganou.de:8000/
-# Username: admin
-# Password: admin2021
+# Username: gast
+# Password: gast21
 
 ## Have FUN :)
